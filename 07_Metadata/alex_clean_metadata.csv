@@ -1,0 +1,19 @@
+sample_id,sample_title,station_numeric,station_name,region,date,season,read_count,Temperature
+SRR23967291,Alexander River station 8 estuary February,8,Estuary_50m,Estuary,NA,Winter,103889570,19
+SRR23967293,Alexander River station 5 Viker February,5,Viker,Midstream,NA,Winter,107683047,19
+SRR23967295,Alexander River station 3 Avrech February,3,Avrech,Midstream,NA,Winter,106357121,19
+SRR23967296,Alexander River station 8 estuary April,8,Estuary_50m,Estuary,NA,Spring,113651284,19
+SRR23967298,Alexander River station 6 Nablus River April,6,Nablus River,Urban_Tributary,NA,Spring,105387243,19
+SRR23967288,Alexander River station 5 Viker September,5,Viker,Midstream,NA,LateSummer,103999369,30
+SRR23967289,Alexander River station 4 Qalansuwa September,4,Qalansuwa,Midstream,NA,LateSummer,134147282,30
+SRR23967290,Alexander River station 9 estuary February,9,Estuary_Shoreline,Estuary,NA,Winter,101354961,19
+SRR23967297,Alexander River station 7 Avihayl April,7,Avihayl,Lower_River,NA,Spring,120647931,19
+SRR23967300,Alexander River station 4 Qalanswa April,4,Qalansuwa,Midstream,NA,Spring,105688168,19
+SRR23967292,Alexander River station 6 Nablus River February,6,Nablus River,Urban_Tributary,NA,Winter,103195101,19
+SRR23967304,Alexander River station 2 Tira February,2,Tira,Upstream,NA,Winter,104897470,19
+SRR23967305,Alexander River station 1 Tsur Natan February,1,Tsur Natan,Upstream,NA,Winter,103172578,19
+SRR23967294,Alexander River station 4 Qalansuwa February,4,Qalansuwa,Midstream,NA,Winter,105801763,19
+SRR23967299,Alexander River station 5 Viker April,5,Viker,Midstream,NA,Spring,102888366,19
+SRR23967301,Alexander River station 3 Avrech April,3,Avrech,Midstream,NA,Spring,102955503,19
+SRR23967302,Alexander River station 7 Avihayl September,7,Avihayl,Lower_River,NA,LateSummer,102730606,30
+SRR23967303,Alexander River station 6 Nablus River September,6,Nablus River,Urban_Tributary,NA,LateSummer,102459105,30
