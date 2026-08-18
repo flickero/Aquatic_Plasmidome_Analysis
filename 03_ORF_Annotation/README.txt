@@ -1,4 +1,4 @@
-# Workflow 3 – ORF Prediction and Functional Annotation
+# Workflow 3 - ORF Prediction and Functional Annotation
 
 ## Overview
 
@@ -122,7 +122,7 @@ Output:
 
 ### analyze_orfs_from_gff_fixed.py
 
-Generates summary statistics describing ORF count, ORF length and coding density distributions used for Figures 4.2–4.4.
+Generates summary statistics describing ORF count, ORF length and coding density distributions used for Figures 4.2-4.4.
 
 ---
 
@@ -141,10 +141,10 @@ Generates summary statistics describing ORF count, ORF length and coding density
 
 Results chapter:
 
-- Figure 4.2 – ORF count distribution
-- Figure 4.3 – ORF length distribution
-- Figure 4.4 – Coding density distribution
-- Figure 4.5 – Global COG functional composition
-- Figure 4.6 – Sample-level functional composition
-- Section 4.2.4 – Conserved domain and plasmid hallmark signatures
+- Figure 4.2 - ORF count distribution
+- Figure 4.3 - ORF length distribution
+- Figure 4.4 - Coding density distribution
+- Figure 4.5 - Global COG functional composition
+- Figure 4.6 - Sample-level functional composition
+- Section 4.2.4 - Conserved domain and plasmid hallmark signatures
 - Functional annotation tables used throughout the resistance analyses
