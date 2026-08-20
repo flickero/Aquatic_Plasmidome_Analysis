@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as follows."
+title: "Aquatic Plasmidome Analysis Pipeline"
+authors:
+  - family-names: "Flicker"
+    given-names: "Oded"
+title: "Aquatic Plasmidome Analysis Pipeline"
+version: "1.0"
+date-released: 2026-08-18
+license: MIT
+repository-code: "https://github.com/flickero/Aquatic_Plasmidome_Analysis"
+
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: "Flicker"
+      given-names: "Oded"
+  title: "Identification and Characterization of Aquatic Plasmids from Variable Environmental Conditions"
+  institution: "Ben-Gurion University of the Negev"
+  year: 2026
