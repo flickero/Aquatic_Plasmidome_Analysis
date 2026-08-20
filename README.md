@@ -28,11 +28,11 @@ The analysis integrates plasmid assembly, dereplication, functional annotation, 
 # Repository structure
 
 ```
-01_Assembly/
-02_Dereplication/
+01_Preprocessing/
+02_Assembly/
 03_ORF_Annotation/
-04_AMR_Analysis/
-05_Coverage_Analysis/
+04_MEGARes/
+05_Coverage/
 06_Plasmid_Validation/
 07_Metadata/
 08_Figure_Scripts/
