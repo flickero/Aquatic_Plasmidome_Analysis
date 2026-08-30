@@ -36,6 +36,7 @@ The analysis integrates plasmid assembly, dereplication, functional annotation, 
 06_Plasmid_Validation/
 07_Metadata/
 08_Figure_Scripts/
+09_Whole_Sequence_Conservation
 supplementary_data/
 ```
 
